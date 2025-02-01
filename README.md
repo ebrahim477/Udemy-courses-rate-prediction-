@@ -56,4 +56,4 @@ Feel free to contribute, explore, and improve the model & dashboard! 🚀📊
 
   Eng.Ebrahim Abdullah
   
-Follow me on LinkedIn: https://www.linkedin.com/in/ebrahim-abdalla-635246255/  
+Follow me on LinkedIn: [Ebrahim Abdullah](https://www.linkedin.com/in/ebrahim-abdalla-635246255/)  
