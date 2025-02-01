@@ -45,8 +45,11 @@ This repository contains a machine learning and data visualization project aimed
 
 
 This project provides both predictive analytics and insightful visualizations to help understand Udemy course ratings better .
+
  ✅ the model has a MSE for training data: 0.03875995781163939‼️
+ 
  ✅ MSE for testing data: 0.2752150656710367‼️
+ 
 Feel free to contribute, explore, and improve the model & dashboard! 🚀📊
 
 ⛔Maded by:
